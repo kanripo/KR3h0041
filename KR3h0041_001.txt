@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 圖繪寶鑑
-#+DATE: 2019-03-29 21:17:06.426259
+#+DATE: 2019-03-29 21:17:06.518920
 #+PROPERTY: ID KR3h0041
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR3h0041_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -224,7 +224,7 @@
 ¶
 　　元帝(子方等)蕭大連　蕭賁　　陸杲　　　陶𢎞景¶
 ¶
-　　袁昻　　焦寳願　𥞇寳鈞　聶松　　　解倩¶
+　　袁昻　　焦寳願　嵇寳鈞　聶松　　　解倩¶
 ¶
 　　陸整　　江僧寳　僧威公　僧吉底俱¶
 ¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 圖繪寶鑑
-#+DATE: 2019-03-29 21:17:06.465389
+#+DATE: 2019-03-29 21:17:06.545794
 #+PROPERTY: ID KR3h0041
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 4
 <pb:KR3h0041_WYG_004-1a>¶
 　　欽定四庫全書¶
@@ -50,7 +50,7 @@
 其上令依元様建造今𤣥妙觀是也仕至觀察使子¶
 師睪官至八座¶
 ¶
-　　趙孟堅字子固號&KR0156;齋居士居海鹽廣陳鎮寶慶二年¶
+　　趙孟堅字子固號彝齋居士居海鹽廣陳鎮寶慶二年¶
 進士修雅博識人比米南宫東西游適一舟横陳僅¶
 留一榻偃息地餘皆所挾雅玩之物意到左右取之¶
 <pb:KR3h0041_WYG_004-3a>¶

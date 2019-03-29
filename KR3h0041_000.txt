@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 圖繪寶鑑
-#+DATE: 2019-03-29 21:17:06.424417
+#+DATE: 2019-03-29 21:17:06.510795
 #+PROPERTY: ID KR3h0041
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR3h0041_WYG_000-1a>¶
 　　欽定四庫全書　　　　　子部八¶
